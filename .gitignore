@@ -3,5 +3,5 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
-include/wifi_secrets.h
 include/mqtt_secrets.h
+include/wifi_secrets.h
