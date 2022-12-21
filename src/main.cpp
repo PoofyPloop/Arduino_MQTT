@@ -1,4 +1,4 @@
-// @author I, Rawad Haddad (000777218), certify that this material is my original work. No other person's work has been used without due acknowledgement and I have not made my work available to anyone else.
+// @author PoofyPloop
 
 #include <Arduino.h>
 #include <Adafruit_MPU6050.h>
@@ -166,8 +166,6 @@ void setup(void) {
 
   Serial.println("\n\n");
   Serial.println("Cloud");
-  Serial.println("Rawad Haddad");
-  Serial.println("000777218");
 }
 
 // ***************************************************************************
